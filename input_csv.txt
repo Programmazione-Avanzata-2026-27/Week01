@@ -1,0 +1,5 @@
+"Detective Story", "1951", "William Wyler"
+"Airport 1975","1974","Jack Smight"
+"Hamlet","1996","Kenneth Branagh"
+"American Beauty","1999","Sam Mendes"
+"Bitter Moon","1992","Roman Polanski"
